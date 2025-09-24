@@ -73,7 +73,7 @@ Service созданы.
 
    Включен.
 
-4. Создать Ingress, который:
+4. Создать Ingress:
 
 Манифест [Ingress](https://github.com/vladmgb/kuber-1.4/blob/main/ingress.yaml)
 
